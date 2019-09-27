@@ -2,6 +2,7 @@
 Tool Name:  Features to GPX
 Source Name: FeaturesToGPX.py
 Version: ArcGIS 10.1+ or ArcGIS Pro 1.0+
+Updated: Arcgis Pro 2.5+
 Author: Esri
 Contributors: Matt Wilkie
    (https://github.com/maphew/arcgiscom_tools/blob/master/Features_to_GPX/FeaturesToGPX.py)
